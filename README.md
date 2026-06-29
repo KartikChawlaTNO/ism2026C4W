@@ -2,7 +2,7 @@
 
 > CIRCLE4WIN project (MOOI124042) — Iteration 1
 >
-> Source: Chawla, K., van der Mijle Meijer, H., Mancini, S., & Visscher, L. (2026). A Voluntary DPP for Wind Turbine Blades: An ongoing Design Science case study. *Procedia Computer Science* (ISM 2026).
+
 
 ---
 
